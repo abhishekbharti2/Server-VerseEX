@@ -1,27 +1,492 @@
 [
   {
     "question": "What is the largest planet in our solar system?",
-    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
     "correct": "Jupiter"
   },
   {
     "question": "Who developed the theory of relativity?",
-    "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Galileo Galilei"],
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Nikola Tesla",
+      "Galileo Galilei"
+    ],
     "correct": "Albert Einstein"
   },
   {
     "question": "Which programming language is commonly used for AI development?",
-    "options": ["Python", "Java", "C++", "Swift"],
+    "options": [
+      "Python",
+      "Java",
+      "C++",
+      "Swift"
+    ],
     "correct": "Python"
   },
   {
     "question": "What is the name of the first man-made satellite?",
-    "options": ["Voyager 1", "Hubble", "Sputnik 1", "Apollo 11"],
+    "options": [
+      "Voyager 1",
+      "Hubble",
+      "Sputnik 1",
+      "Apollo 11"
+    ],
     "correct": "Sputnik 1"
   },
   {
-    "question": "What is the primary component of the sun?",
-    "options": ["Oxygen", "Hydrogen", "Carbon", "Nitrogen"],
+    "question": "What is the primary component of the Sun?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Carbon",
+      "Nitrogen"
+    ],
     "correct": "Hydrogen"
+  },
+  {
+    "question": "Which galaxy is closest to the Milky Way?",
+    "options": [
+      "Andromeda",
+      "Whirlpool",
+      "Sombrero",
+      "Triangulum"
+    ],
+    "correct": "Andromeda"
+  },
+  {
+    "question": "What is the speed of light in vacuum?",
+    "options": [
+      "300,000 km/s",
+      "150,000 km/s",
+      "1,000 km/s",
+      "500,000 km/s"
+    ],
+    "correct": "300,000 km/s"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Mercury",
+      "Neptune"
+    ],
+    "correct": "Mars"
+  },
+  {
+    "question": "Who was the first person to walk on the Moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Michael Collins"
+    ],
+    "correct": "Neil Armstrong"
+  },
+  {
+    "question": "What does NASA stand for?",
+    "options": [
+      "National Aeronautics and Space Administration",
+      "North American Space Agency",
+      "National Aerospace and Science Administration",
+      "New Age Space Association"
+    ],
+    "correct": "National Aeronautics and Space Administration"
+  },
+  {
+    "question": "Which is the smallest planet in our solar system?",
+    "options": [
+      "Mercury",
+      "Mars",
+      "Pluto",
+      "Venus"
+    ],
+    "correct": "Mercury"
+  },
+  {
+    "question": "What is the name of our galaxy?",
+    "options": [
+      "Andromeda",
+      "Milky Way",
+      "Whirlpool",
+      "Sombrero"
+    ],
+    "correct": "Milky Way"
+  },
+  {
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "correct": "Nitrogen"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correct": "Saturn"
+  },
+  {
+    "question": "Which space probe was the first to reach interstellar space?",
+    "options": [
+      "Voyager 1",
+      "Pioneer 10",
+      "New Horizons",
+      "Hubble"
+    ],
+    "correct": "Voyager 1"
+  },
+  {
+    "question": "What is the hottest planet in our solar system?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
+    ],
+    "correct": "Venus"
+  },
+  {
+    "question": "What force keeps planets in orbit around the Sun?",
+    "options": [
+      "Magnetism",
+      "Gravity",
+      "Electromagnetism",
+      "Dark Energy"
+    ],
+    "correct": "Gravity"
+  },
+  {
+    "question": "Which element is commonly used in batteries?",
+    "options": [
+      "Iron",
+      "Lithium",
+      "Lead",
+      "Copper"
+    ],
+    "correct": "Lithium"
+  },
+  {
+    "question": "What year did the first manned Moon landing occur?",
+    "options": [
+      "1969",
+      "1972",
+      "1957",
+      "1980"
+    ],
+    "correct": "1969"
+  },
+  {
+    "question": "What is the primary function of the James Webb Space Telescope?",
+    "options": [
+      "Studying Mars",
+      "Observing black holes",
+      "Infrared astronomy",
+      "Tracking asteroids"
+    ],
+    "correct": "Infrared astronomy"
+  },
+  {
+    "question": "Which planet has the Great Red Spot?",
+    "options": [
+      "Mars",
+      "Jupiter",
+      "Saturn",
+      "Neptune"
+    ],
+    "correct": "Jupiter"
+  },
+  {
+    "question": "What is the name of the first space tourist?",
+    "options": [
+      "Yuri Gagarin",
+      "Dennis Tito",
+      "Elon Musk",
+      "Jeff Bezos"
+    ],
+    "correct": "Dennis Tito"
+  },
+  {
+    "question": "Which space agency launched the first artificial satellite?",
+    "options": [
+      "NASA",
+      "ISRO",
+      "ESA",
+      "Soviet Union"
+    ],
+    "correct": "Soviet Union"
+  },
+  {
+    "question": "What type of galaxy is the Milky Way?",
+    "options": [
+      "Elliptical",
+      "Irregular",
+      "Spiral",
+      "Lenticular"
+    ],
+    "correct": "Spiral"
+  },
+  {
+    "question": "What was the first rover to land on Mars?",
+    "options": [
+      "Opportunity",
+      "Curiosity",
+      "Sojourner",
+      "Spirit"
+    ],
+    "correct": "Sojourner"
+  },
+  {
+    "question": "What is the process by which stars generate energy?",
+    "options": [
+      "Fission",
+      "Fusion",
+      "Combustion",
+      "Radioactivity"
+    ],
+    "correct": "Fusion"
+  },
+  {
+    "question": "Which planet has a tilt that makes it spin on its side?",
+    "options": [
+      "Uranus",
+      "Venus",
+      "Neptune",
+      "Mars"
+    ],
+    "correct": "Uranus"
+  },
+  {
+    "question": "Which physicist proposed the idea of black holes?",
+    "options": [
+      "Stephen Hawking",
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei"
+    ],
+    "correct": "Albert Einstein"
+  },
+  {
+    "question": "What is the name of the telescope that replaced Hubble?",
+    "options": [
+      "Spitzer",
+      "James Webb",
+      "Chandra",
+      "Kepler"
+    ],
+    "correct": "James Webb"
+  },
+  {
+    "question": "Which planet is known as Earth's twin?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correct": "Venus"
+  },
+  {
+    "question": "What is the most common type of star in the universe?",
+    "options": [
+      "Red Giant",
+      "White Dwarf",
+      "Red Dwarf",
+      "Neutron Star"
+    ],
+    "correct": "Red Dwarf"
+  },
+  {
+    "question": "Which element is the primary fuel for nuclear fusion in stars?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Helium",
+      "Carbon"
+    ],
+    "correct": "Hydrogen"
+  },
+  {
+    "question": "What do astronomers call a massive explosion at the end of a large star’s life?",
+    "options": [
+      "Supernova",
+      "Big Bang",
+      "Black Hole",
+      "Nova"
+    ],
+    "correct": "Supernova"
+  },
+  {
+    "question": "Which space mission successfully landed the first rover on Mars?",
+    "options": [
+      "Apollo 11",
+      "Viking 1",
+      "Pathfinder",
+      "Curiosity"
+    ],
+    "correct": "Pathfinder"
+  },
+  {
+    "question": "What is the term for a region of space where gravity is so strong that nothing, not even light, can escape?",
+    "options": [
+      "Wormhole",
+      "Neutron Star",
+      "Black Hole",
+      "Dark Matter"
+    ],
+    "correct": "Black Hole"
+  },
+  {
+    "question": "Which telescope was launched in 1990 and provided deep-space images?",
+    "options": [
+      "Hubble",
+      "James Webb",
+      "Spitzer",
+      "Kepler"
+    ],
+    "correct": "Hubble"
+  },
+  {
+    "question": "What is the largest type of volcano in the solar system?",
+    "options": [
+      "Mount Everest",
+      "Mauna Loa",
+      "Olympus Mons",
+      "Mount Etna"
+    ],
+    "correct": "Olympus Mons"
+  },
+  {
+    "question": "Which planet rotates on its axis the fastest?",
+    "options": [
+      "Mercury",
+      "Jupiter",
+      "Neptune",
+      "Earth"
+    ],
+    "correct": "Jupiter"
+  },
+  {
+    "question": "Which space mission was the first to bring humans to the Moon?",
+    "options": [
+      "Apollo 13",
+      "Apollo 11",
+      "Gemini 7",
+      "Vostok 1"
+    ],
+    "correct": "Apollo 11"
+  },
+  {
+    "question": "What is the farthest man-made object from Earth?",
+    "options": [
+      "Voyager 1",
+      "Apollo 11",
+      "Hubble Telescope",
+      "New Horizons"
+    ],
+    "correct": "Voyager 1"
+  },
+  {
+    "question": "Which planet in our solar system has the coldest average temperature?",
+    "options": [
+      "Neptune",
+      "Uranus",
+      "Pluto",
+      "Saturn"
+    ],
+    "correct": "Uranus"
+  },
+  {
+    "question": "What is the most powerful rocket ever built?",
+    "options": [
+      "Falcon Heavy",
+      "Saturn V",
+      "SLS (Space Launch System)",
+      "Starship"
+    ],
+    "correct": "Starship"
+  },
+  {
+    "question": "What is the primary factor that determines a star’s lifecycle?",
+    "options": [
+      "Color",
+      "Temperature",
+      "Size/Mass",
+      "Age"
+    ],
+    "correct": "Size/Mass"
+  },
+  {
+    "question": "What is the process by which a star collapses into a black hole?",
+    "options": [
+      "White Dwarf Phase",
+      "Red Giant Expansion",
+      "Supernova",
+      "Neutron Degeneration"
+    ],
+    "correct": "Supernova"
+  },
+  {
+    "question": "What kind of waves are used in radio astronomy?",
+    "options": [
+      "Gamma Rays",
+      "Infrared Waves",
+      "Microwaves",
+      "Radio Waves"
+    ],
+    "correct": "Radio Waves"
+  },
+  {
+    "question": "Which country was the first to send an artificial satellite into space?",
+    "options": [
+      "USA",
+      "China",
+      "Soviet Union",
+      "Germany"
+    ],
+    "correct": "Soviet Union"
+  },
+  {
+    "question": "Which space agency developed the Artemis program to return humans to the Moon?",
+    "options": [
+      "NASA",
+      "ESA",
+      "Roscosmos",
+      "ISRO"
+    ],
+    "correct": "NASA"
+  },
+  {
+    "question": "What is the main reason why Pluto was reclassified as a dwarf planet?",
+    "options": [
+      "It has an irregular orbit",
+      "It does not clear its orbit",
+      "It is smaller than Earth's Moon",
+      "It has too many moons"
+    ],
+    "correct": "It does not clear its orbit"
+  },
+  {
+    "question": "What phenomenon causes the apparent bending of light around massive objects?",
+    "options": [
+      "Refraction",
+      "Redshift",
+      "Gravitational Lensing",
+      "Dark Matter"
+    ],
+    "correct": "Gravitational Lensing"
   }
 ]
