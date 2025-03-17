@@ -488,5 +488,505 @@
       "Dark Matter"
     ],
     "correct": "Gravitational Lensing"
+  },
+  {
+    "question": "Which planet has the highest mountain in the solar system?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Mercury"
+    ],
+    "correct": "Mars"
+  },
+  {
+    "question": "What is the name of the boundary around a black hole beyond which nothing can escape?",
+    "options": [
+      "Event Horizon",
+      "Singularity",
+      "Photon Sphere",
+      "Schwarzschild Radius"
+    ],
+    "correct": "Event Horizon"
+  },
+  {
+    "question": "What is the main purpose of the International Space Station (ISS)?",
+    "options": [
+      "Space Tourism",
+      "Military Operations",
+      "Scientific Research",
+      "Satellite Launching"
+    ],
+    "correct": "Scientific Research"
+  },
+  {
+    "question": "What is the term for the study of the universe beyond Earth's atmosphere?",
+    "options": [
+      "Geology",
+      "Astronomy",
+      "Meteorology",
+      "Oceanography"
+    ],
+    "correct": "Astronomy"
+  },
+  {
+    "question": "Which element is used as the propellant in most modern rockets?",
+    "options": [
+      "Hydrogen",
+      "Oxygen",
+      "Nitrogen",
+      "Helium"
+    ],
+    "correct": "Hydrogen"
+  },
+  {
+    "question": "What is the name of Elon Musk's space exploration company?",
+    "options": [
+      "Blue Origin",
+      "SpaceX",
+      "Virgin Galactic",
+      "Rocket Lab"
+    ],
+    "correct": "SpaceX"
+  },
+  {
+    "question": "What kind of celestial object is the Sun?",
+    "options": [
+      "White Dwarf",
+      "Red Giant",
+      "Main Sequence Star",
+      "Neutron Star"
+    ],
+    "correct": "Main Sequence Star"
+  },
+  {
+    "question": "Which device is used to measure atmospheric pressure?",
+    "options": [
+      "Barometer",
+      "Thermometer",
+      "Hygrometer",
+      "Altimeter"
+    ],
+    "correct": "Barometer"
+  },
+  {
+    "question": "What is the name of the space program that first sent humans into space?",
+    "options": [
+      "Apollo",
+      "Gemini",
+      "Vostok",
+      "Mercury"
+    ],
+    "correct": "Vostok"
+  },
+  {
+    "question": "Which planet has rings made of ice and rock particles?",
+    "options": [
+      "Saturn",
+      "Mars",
+      "Venus",
+      "Neptune"
+    ],
+    "correct": "Saturn"
+  },
+  {
+    "question": "Which programming language was created by Guido van Rossum?",
+    "options": [
+      "Python",
+      "Java",
+      "C#",
+      "Ruby"
+    ],
+    "correct": "Python"
+  },
+  {
+    "question": "What is the purpose of a firewall in computer networks?",
+    "options": [
+      "Data Storage",
+      "Virus Removal",
+      "Network Security",
+      "Software Installation"
+    ],
+    "correct": "Network Security"
+  },
+  {
+    "question": "Which planet has the longest day (rotation period) in the solar system?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Earth",
+      "Jupiter"
+    ],
+    "correct": "Venus"
+  },
+  {
+    "question": "Which device converts digital signals to analog signals for data transmission?",
+    "options": [
+      "Modem",
+      "Router",
+      "Switch",
+      "Hub"
+    ],
+    "correct": "Modem"
+  },
+  {
+    "question": "Which spacecraft carried the first humans to orbit Earth?",
+    "options": [
+      "Vostok 1",
+      "Apollo 11",
+      "Gemini 4",
+      "Soyuz 1"
+    ],
+    "correct": "Vostok 1"
+  },
+  {
+    "question": "What kind of technology is used in self-driving cars for distance measurement?",
+    "options": [
+      "Radar",
+      "Lidar",
+      "Infrared",
+      "Sonar"
+    ],
+    "correct": "Lidar"
+  },
+  {
+    "question": "What is the basic unit of a computer's memory?",
+    "options": [
+      "Bit",
+      "Byte",
+      "Word",
+      "Nibble"
+    ],
+    "correct": "Bit"
+  },
+  {
+    "question": "Which operating system is based on the Linux kernel?",
+    "options": [
+      "Windows",
+      "macOS",
+      "Android",
+      "iOS"
+    ],
+    "correct": "Android"
+  },
+  {
+    "question": "What is the name of the galaxy cluster that contains the Milky Way?",
+    "options": [
+      "Local Group",
+      "Virgo Cluster",
+      "Coma Cluster",
+      "Hercules Cluster"
+    ],
+    "correct": "Local Group"
+  },
+  {
+    "question": "What is the process of encoding data to prevent unauthorized access called?",
+    "options": [
+      "Encryption",
+      "Compression",
+      "Decryption",
+      "Compilation"
+    ],
+    "correct": "Encryption"
+  },
+  {
+    "question": "Which scientist is known for laws of planetary motion?",
+    "options": [
+      "Kepler",
+      "Galileo",
+      "Newton",
+      "Einstein"
+    ],
+    "correct": "Kepler"
+  },
+  {
+    "question": "What type of radiation do night vision devices primarily detect?",
+    "options": [
+      "Ultraviolet",
+      "Infrared",
+      "Gamma",
+      "X-Ray"
+    ],
+    "correct": "Infrared"
+  },
+  {
+    "question": "Which space observatory detects X-rays from space?",
+    "options": [
+      "Hubble",
+      "James Webb",
+      "Chandra",
+      "Spitzer"
+    ],
+    "correct": "Chandra"
+  },
+  {
+    "question": "What is the term for the time taken for Earth to orbit the Sun once?",
+    "options": [
+      "Day",
+      "Month",
+      "Year",
+      "Decade"
+    ],
+    "correct": "Year"
+  },
+  {
+    "question": "Which company developed the Windows operating system?",
+    "options": [
+      "Apple",
+      "Google",
+      "Microsoft",
+      "IBM"
+    ],
+    "correct": "Microsoft"
+  },
+  {
+    "question": "Which planet is the densest in our solar system?",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Saturn",
+      "Mars"
+    ],
+    "correct": "Earth"
+  },
+  {
+    "question": "What device is used to amplify weak electrical signals?",
+    "options": [
+      "Transistor",
+      "Resistor",
+      "Capacitor",
+      "Diode"
+    ],
+    "correct": "Transistor"
+  },
+  {
+    "question": "What is the name of the protective layer around Earth that blocks most UV radiation?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Ozone Layer",
+      "Ionosphere"
+    ],
+    "correct": "Ozone Layer"
+  },
+  {
+    "question": "Which mission aims to study the Sun's outer corona?",
+    "options": [
+      "Parker Solar Probe",
+      "Voyager 1",
+      "Cassini",
+      "New Horizons"
+    ],
+    "correct": "Parker Solar Probe"
+  },
+  {
+    "question": "Which networking device connects multiple networks together?",
+    "options": [
+      "Switch",
+      "Router",
+      "Hub",
+      "Repeater"
+    ],
+    "correct": "Router"
+  },
+  {
+    "question": "What is the smallest unit of a chemical element?",
+    "options": [
+      "Molecule",
+      "Atom",
+      "Proton",
+      "Electron"
+    ],
+    "correct": "Atom"
+  },
+  {
+    "question": "Which layer of Earth's atmosphere contains most weather phenomena?",
+    "options": [
+      "Stratosphere",
+      "Troposphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "correct": "Troposphere"
+  },
+  {
+    "question": "What technology forms the basis of cryptocurrency transactions?",
+    "options": [
+      "Blockchain",
+      "Cloud Computing",
+      "Artificial Intelligence",
+      "Quantum Computing"
+    ],
+    "correct": "Blockchain"
+  },
+  {
+    "question": "What is the primary function of RAM in a computer?",
+    "options": [
+      "Permanent Storage",
+      "Temporary Memory",
+      "Graphic Processing",
+      "Network Communication"
+    ],
+    "correct": "Temporary Memory"
+  },
+  {
+    "question": "Which part of a computer is considered the 'brain'?",
+    "options": [
+      "Hard Drive",
+      "RAM",
+      "CPU",
+      "GPU"
+    ],
+    "correct": "CPU"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Transmission Text Protocol",
+      "Hyper Terminal Transport Program",
+      "Home Transfer Text Protocol"
+    ],
+    "correct": "HyperText Transfer Protocol"
+  },
+  {
+    "question": "What is the process of splitting atoms to release energy called?",
+    "options": [
+      "Fusion",
+      "Fission",
+      "Combustion",
+      "Conduction"
+    ],
+    "correct": "Fission"
+  },
+  {
+    "question": "What is a light-year a measure of?",
+    "options": [
+      "Time",
+      "Distance",
+      "Speed",
+      "Energy"
+    ],
+    "correct": "Distance"
+  },
+  {
+    "question": "Which planet has the thickest atmosphere?",
+    "options": [
+      "Venus",
+      "Earth",
+      "Mars",
+      "Mercury"
+    ],
+    "correct": "Venus"
+  },
+  {
+    "question": "What is the term for materials that do not conduct electricity?",
+    "options": [
+      "Insulators",
+      "Conductors",
+      "Semiconductors",
+      "Superconductors"
+    ],
+    "correct": "Insulators"
+  },
+  {
+    "question": "Which was the first artificial satellite sent into space by the USA?",
+    "options": [
+      "Explorer 1",
+      "Vanguard 1",
+      "Apollo 11",
+      "Pioneer 10"
+    ],
+    "correct": "Explorer 1"
+  },
+  {
+    "question": "What is the term for reusable software components?",
+    "options": [
+      "Libraries",
+      "Drivers",
+      "Firmware",
+      "Cookies"
+    ],
+    "correct": "Libraries"
+  },
+  {
+    "question": "Which branch of computer science focuses on creating intelligent machines?",
+    "options": [
+      "Networking",
+      "Artificial Intelligence",
+      "Database Management",
+      "Software Engineering"
+    ],
+    "correct": "Artificial Intelligence"
+  },
+  {
+    "question": "Which country operates the Tiangong space station?",
+    "options": [
+      "USA",
+      "Russia",
+      "China",
+      "India"
+    ],
+    "correct": "China"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Program Unit",
+      "Control Process Utility",
+      "Central Power Unit"
+    ],
+    "correct": "Central Processing Unit"
+  },
+  {
+    "question": "What is the name of the large radio telescope in China?",
+    "options": [
+      "Arecibo",
+      "FAST",
+      "VLA",
+      "ALMA"
+    ],
+    "correct": "FAST"
+  },
+  {
+    "question": "What is the term for a failed star that didn’t gain enough mass to start fusion?",
+    "options": [
+      "Red Giant",
+      "White Dwarf",
+      "Brown Dwarf",
+      "Neutron Star"
+    ],
+    "correct": "Brown Dwarf"
+  },
+  {
+    "question": "Which law describes the relationship between voltage, current, and resistance?",
+    "options": [
+      "Ohm’s Law",
+      "Newton’s Law",
+      "Faraday’s Law",
+      "Hooke’s Law"
+    ],
+    "correct": "Ohm’s Law"
+  },
+  {
+    "question": "Which type of computer virus replicates itself to spread?",
+    "options": [
+      "Trojan",
+      "Worm",
+      "Spyware",
+      "Adware"
+    ],
+    "correct": "Worm"
+  },
+  {
+    "question": "What is the standard unit of electrical power?",
+    "options": [
+      "Watt",
+      "Volt",
+      "Ampere",
+      "Ohm"
+    ],
+    "correct": "Watt"
   }
 ]
