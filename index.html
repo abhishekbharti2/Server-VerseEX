@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VerseEx Form</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        form { max-width: 400px; padding: 20px; border: 1px solid #ccc; border-radius: 5px; }
+        label { display: block; margin-top: 10px; }
+        input, textarea { width: 100%; padding: 8px; margin-top: 5px; }
+        button { margin-top: 15px; padding: 10px; background: #007bff; color: white; border: none; cursor: pointer; }
+        button:hover { background: #0056b3; }
+    </style>
+</head>
+<body>
+
+    <h2>VerseEx Form Submission</h2>
+
+    <form id="verseexForm">
+        <label for="title">Username:</label>
+        <input type="text" id="title" name="title" required>
+
+        <label for="description">Message:</label>
+        <textarea id="description" name="description" required></textarea>
+
+        <button type="submit">Submit</button>
+    </form>
+
+    <p id="responseMessage"></p>
+
+    <script>
+        document.getElementById("verseexForm").addEventListener("submit", async function(event) {
+            event.preventDefault();
+
+            const username = document.getElementById("title").value;
+            const message = document.getElementById("description").value;
+
+            const formData = { username, message };
+
+            try {
+                const response = await fetch("http://localhost:5000/chatex", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify(formData)
+                });
+
+                if (!response.ok) {
+                    throw new Error("Failed to submit");
+                }
+
+                const data = await response.json();
+                console.log("Response:", data);
+                document.getElementById("responseMessage").innerText = "Message sent successfully!";
+
+                // Clear the form after submission
+                document.getElementById("verseexForm").reset();
+                
+            } catch (error) {
+                document.getElementById("responseMessage").innerText = "Error submitting form.";
+                console.error("Error:", error);
+            }
+        });
+    </script>
+
+</body>
+</html>
